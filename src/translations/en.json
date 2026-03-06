@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "prints": "Prints",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "headline": "Photography & Video for unforgettable moments",
+    "subheadline": "Over 20 years capturing stories in Cochabamba, Bolivia.",
+    "ctaWhatsapp": "Get a quote on WhatsApp",
+    "ctaGallery": "View Gallery",
+    "trustTitle": "Trust & experience",
+    "trustItems": {
+      "years": "20+ years of experience",
+      "quality": "Professional quality",
+      "delivery": "Reliable delivery",
+      "events": "Special events"
+    }
+  }
+}

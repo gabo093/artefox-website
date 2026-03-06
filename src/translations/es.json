@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "gallery": "Galería",
+    "prints": "Impresiones",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "home": {
+    "headline": "Fotografía y Video para momentos inolvidables",
+    "subheadline": "Más de 20 años capturando historias en Cochabamba, Bolivia.",
+    "ctaWhatsapp": "Cotizar por WhatsApp",
+    "ctaGallery": "Ver Galería",
+    "trustTitle": "Confianza y experiencia",
+    "trustItems": {
+      "years": "+20 años de experiencia",
+      "quality": "Calidad profesional",
+      "delivery": "Entrega responsable",
+      "events": "Eventos especiales"
+    }
+  }
+}
